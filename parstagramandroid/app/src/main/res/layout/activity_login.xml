@@ -12,10 +12,10 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:layout_weight="1"
+        android:hint="username"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="74dp"
-        tools:layout_editor_absoluteY="17dp"
-        tools:text="username" />
+        tools:layout_editor_absoluteY="17dp" />
 
     <EditText
         android:id="@+id/etPassword"
